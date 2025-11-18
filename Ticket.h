@@ -1,6 +1,7 @@
-//
-// Your comments here...
-//
+// Author: Khean Phaengdy
+//Date: 11/17/2025
+//Assignment:  Lab Activities - Defining Structures & Working With GitHub: Ticket.h
+
 #ifndef FIRSTSTRUCT_TICKET_H
 #define FIRSTSTRUCT_TICKET_H
 
