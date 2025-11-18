@@ -1,3 +1,7 @@
+// Author: Khean Phaengdy
+//Date: 11/17/2025
+//Assignment:  Lab Activities - Defining Structures & Working With GitHub: main.cpp
+
 #include <iostream>
 #include <string>
 #include <iomanip> // For std::setw, std::setfill, std::fixed, std::setprecision
