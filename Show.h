@@ -1,6 +1,7 @@
-//
-// YOur comments here...
-//
+// Author: Khean Phaengdy
+//Date: 11/17/2025
+//Assignment:  Lab Activities - Defining Structures & Working With GitHub: Show.cpp
+
 
 #ifndef FIRSTSTRUCT_SHOW_H
 #define FIRSTSTRUCT_SHOW_H
