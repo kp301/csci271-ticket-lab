@@ -1,6 +1,6 @@
-//
-// YOur comments here...
-//
+// Author: Khean Phaengdy
+//Date: 11/17/2025
+//Assignment:  Lab Activities - Defining Structures & Working With GitHub: Show.cpp
 
 #include "Show.h"
 
